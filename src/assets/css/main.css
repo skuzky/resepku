@@ -1,0 +1,71 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+.maksimal{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
+}
+
+.card-product {
+    border-radius: 15px;
+}
+
+/* .btn-success {
+    background-color: #F2C335;
+}
+
+.badge-success {
+    background-color: #F2C335;
+} */
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+.input-group-prepend{
+    position: absolute;
+    right: -1px;
+    height: 100%;
+}
+
+.img-fluid {
+    border-radius: 15px;
+}
+
+.search-bar{
+    align-items: center;
+    border-radius: 5em;
+}
+
+.custom-action{
+    background-color: #f0f0f0;
+    width: 100%;
+    height:3em;
+}
+
+.bahan{
+    font-size: 1.3em;
+}
+
+.langkah{
+    font-size: 1.3em;
+    border:100px #000;
+}

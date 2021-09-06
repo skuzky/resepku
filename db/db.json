@@ -1,0 +1,289 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "kategori": "sate",
+      "gambar": "sate-ayam.jpg",
+      "deskripsi": "Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi."
+      
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "kategori": "makanan kering",
+      "gambar": "nasi-goreng-telor.jpg",
+      "deskripsi": "Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. serta tambahan telur"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "kategori": "berkuah",
+      "gambar": "nasi-rames.jpg",
+      "deskripsi": "masakan khas Indonesia. Makanan ini terdiri dari nasi putih yang dihidangkan dengan bermacam-macam lauk-pauk. Lauk yang digunakan adalah sambal goreng, abon, serundeng, tahu goreng, ikan goreng, telur dan lain-lain."      
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "waktu": "30 Menit",
+      "kategori": "sate",
+      "gambar": "sate-ayam.jpg",
+      "bahan": [
+        {"message": "125 gr ayam fillet potong dadu"},
+        {"message": "5 tusuk sate"},
+        {"message": "Bumbu kacang"},
+        {"message": "75 gr kacang tanah goreng lalu tumbuk halus"},
+        {"message": "2 lembar daun jeruk sobek sobek"},
+        {"message": "1 sdm kecap manis"},
+        {"message": "1/2 sdm gula merah"},
+        {"message": "Mentega untuk menumis"}
+      ],
+      "langkah": [
+        {"message": "Lumuri ayam dengan marinasi. Sissihkan."},
+        {"message": "Bumbu kacang:tumis bumbu dengan daun jeruk sampai tercium bau harum. Masukkan Kacang tanah yang sudah di haluskan. Tambahkan gula merah, gula pasir, garam dan kecap. Tambahkan air dan koreksi rasa. Masak sampai mengental dan mengeluarkan minyak. Angkat dan sisihkan."},
+        {"message": "Ayam ayam yang sudah di marinasi lalu di tusuk dengan tusuk sate."},
+        {"message": "Siapkan alat bakaran pan/wajan datar anti lengket."},
+        {"message": "Campur bahan olesan lalu oleskan ke ayam."},
+        {"message": "Bakar sate sampai dibolak balik dan di olesi bumbu hingga matang"},
+        {"message": "Sajikan dengan bumbu Kacang dan acar."}
+      ],
+      "deskripsi": "Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi."
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "waktu": "10 Menit",
+      "kategori": "makanan kering",
+      "gambar": "nasi-goreng-telor.jpg",
+      "bahan": [
+        {"message": "1 piring nasi"},
+        {"message": "2 butir telur (me: 1 butir)"},
+        {"message": "1/2 sdt kaldu bubuk"},
+        {"message": "1/4 sdt garam"},
+        {"message": "1/2 sdt saus tiram"},
+        {"message": "1/2 sdt minyak wijen"},
+        {"message": "1 sdt kecap manis"},
+        {"message": "2 siung bawang merah "},
+        {"message": "1 siung bawang putih "},
+        {"message": "4 cabai "},
+        {"message": "3 sdm minyak goreng "}
+      ],
+      "langkah": [
+        {"message": "Panaskan minyak, masukkan telur, orak arik. Sampai telur matang.Masukkan nasi aduk rata."},
+        {"message": "Tambahkan minyak wijen, kecap manis dan saus tiram, campur rata, tambahkan, lada dan garam."},
+        {"message": "Setelah semua bumbu rata dan rasa sudah pas, lalu angkat.Nasi goreng telur siap disajikan."}
+      ],
+      "deskripsi": "Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. serta tambahan telur"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "waktu": "40 Menit",
+      "kategori": "makanan kering",
+      "gambar": "nasi-rames.jpg",
+      "bahan": [
+        {"message": "Nasi Putih Biasa"},
+        {"message": "2 Butir Telur"},
+        {"message": "2 papan Mie Kering"},
+        {"message": "6 Siung Bawang Merah, (Kecil)"},
+        {"message": "5 Siung Bawang Putih, (Kecil)"},
+        {"message": "1 Ruas Jahe 3 cm"},
+        {"message": "7 Butir Lada Hitam"},
+        {"message": "1/2 SDT Lada Halus"},
+        {"message": "1/4 SDT Garam"},
+        {"message": "1/4 SDT Gula"},
+        {"message": "4 SDM Minyak Goreng u/ Menumis"},
+        {"message": "Pelengkap, Bawang Merah Goreng"}
+      ],
+      "langkah": [
+        {"message": "Siapkan Masak Nasi."},
+        {"message": "Siapkan Telur, Saya pecah dan saya taruh di 3 Cetakan plastik, karena terlalu penuh, dan Saya bumbui sedikit Garam-Rayco dan Lada Halus, Saya aduk dg Tusuk Sate/Sujen.. Sisa putih telur saya tambahkan Sedikit Kunyit."},
+        {"message": "Telur Saya Kukus diatas Nasi"},
+        {"message": "Siapkan mie dan Bumbunya."},
+        {"message": "Rebus Mie di air mendidih yg ditambahkan dg 1 SDM Minyak Goreng, setelah mengembang angkat dan tiriskan, Tumis Bumbu lengkap dg garam gula dan Royco hingga Harum-setelah harum masukkan pada Mie, aduk hingga Rata."},
+        {"message": "Panaskan sebentar mie yg sdh dicampur bumbu."},
+        {"message": "Nasi Rames Siap diracik dg Mie Rasa Jahe, Sambal Goreng Kentang Ati Ampela dan Telur Rebus (Versi ala Pelengkap) Saja, Terimakasih"}
+      ],
+      "deskripsi": "masakan khas Indonesia. Makanan ini terdiri dari nasi putih yang dihidangkan dengan bermacam-macam lauk-pauk. Lauk yang digunakan adalah sambal goreng, abon, serundeng, tahu goreng, ikan goreng, telur dan lain-lain."      
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "waktu": "45 Menit",
+      "kategori": "makanan berkuah",
+      "gambar": "mie-ayam-bakso.jpg",
+      "bahan": [
+        {"message": "Ayam fillet 250gr"},
+        {"message": "1 bks mie telur"},
+        {"message": "1 bonggol Sawi pokcoy"},
+        {"message": "5 kemiri"},
+        {"message": "5 bawang putih"},
+        {"message": "10 bawang merah"},
+        {"message": "1 ruas jahe"},
+        {"message": "1 ruang kunyit"},
+        {"message": "air secukupnya"},
+        {"message": "daun bawang secukupnya"},
+        {"message": "minyak goreng"},
+        {"message": "1bh serai"},
+        {"message": "10 daun jeruk"},
+        {"message": "garam secukupnya"},
+        {"message": "peyedap sekucupnya"},
+        {"message": "3sdm kecap manis"}
+      ],
+      "langkah": [
+        {"message": "Cuci ayam, Potong dadu."},
+        {"message": "Rebus mie telur, tambahkan minyak sedit dan beri garam sedikit. Setelah agak lembut angkat dan tiriskan."},
+        {"message": "Cuci sawi pokcoy dan potong sesuai selera. Rebus dan setelah berubah warna tiriskan."},
+        {"message": "Haluskan semua bumbu kecuali daun bawang."},
+        {"message": "Panaskan minyak. Masukan bumbu halus. Tambahkan serai dan daun jeruk. Masukan ayam dan Tambahkan air."},
+        {"message": "Masukan kecap, garam, lada, penyedap. Koreksi rasa lalu masukan daun bawang. Angkat."},
+        {"message": "Masukan mie kedalam mangkok kemudian, sawi lalu masukan bumbu ayam dan tambahkan bawang goreng di atasnya. Siap dinikmati."}
+      ],
+      "deskripsi": "Mi Ayam, Mie Ayam atau Bakmi Ayam adalah masakan Indonesia yang terbuat dari mi direbus mendidih kemudian ditaburi saus kecap khusus beserta daging ayam dan sayuran. Ditambah dengan topping bakso di dalamnya."
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "waktu": "5 Menit",
+      "kategori": "makanan kering",
+      "gambar": "mie-goreng.jpg",
+      "bahan": [
+        {"message": "1 bungkus mie (saya pake mie burung dara)"},
+        {"message": "3 sendok minyak bawang"},
+        {"message": "2 bonggol pokcoy"},
+        {"message": "merica"},
+        {"message": "gula"},
+        {"message": "garam"}
+      ],
+      "langkah": [
+        {"message": "Seduh mie dengan air mendidih"},
+        {"message": "potong potong pokcoy, cuci bersih"},
+        {"message": "Panaskan minyak bawang Lalu tambahkan sayur pokcoy"},
+        {"message": "Tambahkan gula garam dan merica"},
+        {"message": "tuang sedikit air"},
+        {"message": "masukkan mie"},
+        {"message": " Masak hingga mie matang dan air surut"},
+        {"message": "Hidangkan Selama menikmati"}
+      ],
+      "deskripsi": "Mi goreng berarti 'mi yang digoreng' adalah makanan yang berasal dari Indonesia yang populer dan juga digemari di Malaysia, dan Singapura."
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bakso",
+      "waktu": "1 Jam",
+      "kategori": "makanan berkuah",
+      "gambar": "bakso.jpg",
+      "bahan": [
+        {"message": "1 bungkus bakso siap maasak"},
+        {"message": "2 bks royco sapi."},
+        {"message": "2 bks ladaku."},
+        {"message": "Secukupnya garam kasar."},
+        {"message": "Secukupnya penyedap rasa."},
+        {"message": "1 ons bawang putih."},
+        {"message": "1kg tulang sapi"},
+        {"message": "500 gram bawang merah goreng"}
+      ],
+      "langkah": [
+        {"message": "Rebus tulang sapi di dalam air bersama seledri, dan daun bawang di atas api kecil sampai berkaldu. Saring"},
+        {"message": "Masukkan bawang putih goreng, garam, merica bubuk, gula pasir, dan penyedap rasa. Masak sampai mendidih. "},
+        {"message": "Tambahkan bawang merah goreng yang sudah diremas-remas. Aduk rata. "},
+        {"message": "Masukkan bakso"},
+        {"message": "Tunggu hingga bakso dirasa sudah kenyal"},
+        {"message": "Siap disajikan"}
+      ],
+      "deskripsi": "Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau."
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Pangsit",
+      "waktu": "15 Menit",
+      "kategori": "camilan",
+      "gambar": "pangsit.jpg",
+      "bahan": [
+        {"message": "20 sdm terigu"},
+        {"message": "1 buah telur kocok"},
+        {"message": "secukupnya Air panas"},
+        {"message": "1 sdt garam"},
+        {"message": "1 sdt merica"},
+        {"message": "1 sdm tepung tapioka"}
+      ],
+      "langkah": [
+        {"message": "Campurkan tepung, garam, merica, dan telur hingga merata lalu tambahkan air dengan sendok (sedikit demi sedikit). Uleni hingga kalis."},
+        {"message": "Diamkan minimal 1 jam di tempat kedap udara / bungkus dengan plastik wrap"},
+        {"message": "Gilas adonan menjadi tipis dan potong sesuai selera"},
+        {"message": "Goreng dengan minyak panas pada api kecil"},
+        {"message": "Siap disantap"}
+      ],
+      "deskripsi": "Pangsit, atau kadang disebut sebagai wonton, adalah makanan berupa daging cincang yang dibungkus lembaran tepung terigu. Setelah direbus sebentar, pangsit umumnya dihidangkan di dalam sup. Selain direbus, pangsit juga digoreng dengan minyak goreng yang banyak hingga seperti kerupuk"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Kentang Goreng",
+      "waktu": "10 Menit",
+      "kategori": "camilan",
+      "gambar": "kentang-goreng.jpg",
+      "bahan": [
+        {"message": "250 grm kentang"},
+        {"message": "sagu tani (tepung tapioka merek apa saja)"},
+        {"message": "minyak goreng"},
+        {"message": "mayonaise"},
+        {"message": "saus cabai"},
+        {"message": "penyedap rasa"}
+      ],
+      "langkah": [
+        {"message": "Kupas potong kentang sesuai selera Cuci"},
+        {"message": "Siapkan wajan berisi minyak goreng"},
+        {"message": "Lumuri kentang dengan tegung sagu tani sambil di tekan2 agar menempel"},
+        {"message": "Setelah minyak panas masukan kentang dengan api sedang Goreng hingga kering matang.. "},
+        {"message": "Angkat tiriskan taburi penyedap rasa, Siapkan mayonaise dan saus sebagai cocolan "}
+      ],
+      "deskripsi": "Kentang goreng adalah hidangan yang dibuat dari potongan-potongan kentang yang digoreng dalam minyak goreng panas. "
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Lontong Opor Ayam",
+      "waktu": "40 Menit",
+      "kategori": "makanan berkuah",
+      "gambar": "lontong-opor-ayam.jpg",
+      "bahan": [
+        {"message": "1/4 ayam potong"},
+        {"message": "3 butir bawang putih"},
+        {"message": "4 butir bawang merah"},
+        {"message": "2 butir kemiri"},
+        {"message": "1 buah cabe merah"},
+        {"message": "Sedikit jahe"},
+        {"message": "1/2 buah kunyit"},
+        {"message": "1 helai serai"},
+        {"message": "2 helai daun salam"},
+        {"message": "1 pcs santan kemasan"},
+        {"message": "minyak dan garam"},
+        {"message": "3 lontong"}
+      ],
+      "langkah": [
+        {"message": "Cuci ayam hingga bersih"},
+        {"message": "Blender jahe, cabe merah, kunyit, bawang merah, bawang putih dan kemiri"},
+        {"message": "Geprek serai dan sobek daun salam"},
+        {"message": "Tumis bumbu halus dengan minyak goreng hingga matang. Tambahkan air dan masukkan ayam"},
+        {"message": "Tambahkan garam diatas ayam (diamkan) lalu aduk hingga merata"},
+        {"message": "Masukkan serai dan daun salam"},
+        {"message": "Cek rasa dan tambahkan santan. Aduk hingga merata"},
+        {"message": "Tambahkan Lontong ketika menyajikan, selamat makan."}
+      ],
+      "deskripsi": "Opor ayam merupakan masakan sejenis kari ayam yang sangat dikenal di Indonesia. Masakan ini telah dikenal luas di daerah lain. "
+    }
+  ]
+}
